@@ -1,6 +1,6 @@
 # LunaCrush - Lua Minifier/Compressor
 [![Builder package.json size](https://badges.herokuapp.com/size/github/FormidableLabs/builder/master/package.json)](https://github.com/Westagger/LuaCrush)
-[![GitHub](https://img.shields.io/github/license/jongracecox/anybadge.svg)](https://github.com/Westagger/LuaCrush/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/license-BSL%201.0-green)](https://github.com/Westagger/LuaCrush/blob/main/LICENSE)
 
 LunaCrush is a simple Python script that allows you to minify/compress Lua scripts. It provides a command-line interface for users to specify the path of the Lua script they want to minify.
 
